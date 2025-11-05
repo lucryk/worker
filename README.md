@@ -51,10 +51,12 @@
 
 ###
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=lucryk&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=lucryk&show_icons=true&count_private=true&hide_border=true&theme=dracula" align="center" /></div>  
+
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucryk&hide_border=true&layout=compact&theme=dracula" align="center" /></div>  
 
 ###
 
 <div align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=lucryk&theme=dark&locale=ru" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=lucryk&theme=dark&locale=ru" alt="GitHub Streak&theme=dracula" /></a>
 </div>
