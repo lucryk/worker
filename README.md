@@ -35,7 +35,18 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=lucryk&repo=kurs&theme=dracula&show_owner=true&cache_seconds=3600" height="130" alt="Book-store" />
 </a>
 
-- 👯 I’m looking to collaborate on [Book-store](https://github.com/lucryk/kurs)
+<a href="https://github.com/lucryk/project">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=lucryk&repo=project&theme=dracula&show_owner=true&cache_seconds=3600" height="130" alt="Book-store" />
+</a>
+
+<a href="https://github.com/lucryk/maks">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=lucryk&repo=maks&theme=dracula&show_owner=true&cache_seconds=3600" height="130" alt="Book-store" />
+</a>
+
+<a href="https://github.com/lucryk/course">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=lucryk&repo=course&theme=dracula&show_owner=true&cache_seconds=3600" height="130" alt="Book-store" />
+</a>
+
 
 ###
 
