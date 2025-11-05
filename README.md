@@ -31,6 +31,10 @@
 
 <h3 align="left">🚀 Мои проекты</h3>
 
+<a href="https://github.com/lucryk/project">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=lucryk&repo=bank-rest&theme=dracula&show_owner=true&cache_seconds=3600" height="130" alt="Hakaton-site" />
+  </a>
+
 ###
 
 
@@ -57,6 +61,3 @@
 
 ###
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=lucryk&locale=ru&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
