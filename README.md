@@ -31,7 +31,7 @@
 
 <h3 align="left">🚀 Мои проекты</h3>
 
-<a href="https://github.com/lucryk/kurs">
+<a href="https://github.com/lucryk/kurs" align="center">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=lucryk&repo=kurs&theme=dracula&show_owner=true&cache_seconds=3600" height="130" alt="Book-store" />
 </a>
 
